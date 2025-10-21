@@ -55,8 +55,8 @@ a {
 }
 a:link{color:#a39f3e;} 
 			a:visited{color:#917bb5;}
-			a:hover {color: #917bb5;}
-			a:active{color:#4c3275;}
+			a:hover {color: #A39F3E;}
+			a:active{color:#a39f3e;}
 
 .leftimage{
 	float:left;
